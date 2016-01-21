@@ -6,3 +6,6 @@
 
 [Measuring Page Load Speed with Navigation Timing](http://www.html5rocks.com/en/tutorials/webperformance/basics/?redirect_from_locale=es)
 (Sam Dutton - Oct, 2013)
+
+[Evaluating network performance](https://developer.chrome.com/devtools/docs/network)
+(Chrome Developes)
