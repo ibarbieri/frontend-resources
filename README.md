@@ -15,3 +15,6 @@
 
 [domInteractive: is it? really?](http://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/)
 (Steve Souders - Aug, 2015)
+
+[User Timing and Custom Metrics](https://speedcurve.com/blog/user-timing-and-custom-metrics/)
+(Steve Souders - Nov, 2015)
